@@ -1,1 +1,1 @@
-# terraform-amazon-personalize
+# amazon-personalize-terraform
